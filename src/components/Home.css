@@ -1,0 +1,28 @@
+*{
+    font-family: "Orbitron";
+    
+}
+
+body {
+    background: linear-gradient(135deg, #f0f4f8, #e2e8f0);
+    color: #333333; /* Text color for light theme */
+  }
+
+
+
+.hc{
+    font-weight: 800;
+    
+}
+
+.hcc{
+    font-weight: 500;
+}
+
+.myPfp{
+    
+    width: 200px;
+    border-radius: 50%;
+    
+}
+
