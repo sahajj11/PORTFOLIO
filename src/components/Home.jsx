@@ -25,7 +25,7 @@ const Home = () => {
           <p className="display-1 hc">Hello!</p>
           <p className="display-1 hc">Sahaj Rajput Here</p>
           <p className="hcc fs-3 mt-3">
-            <span className="typing-text">Full Stack Web Developer</span>
+            <span>Full Stack Web Developer</span>
           </p>
 
           <div>
